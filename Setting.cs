@@ -5,6 +5,8 @@ using System.Xml;
 using System.Data;
 using System.Text;
 
+// This is a change i've made
+
 namespace GalaxySmash
 {
     public static class SettingsLocal
